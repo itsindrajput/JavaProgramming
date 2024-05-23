@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b33871d6-524c-46c3-b8a0-c786e1ef2cbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicatesElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayRotation">
+  <component name="RunManager" selected="Application.DuplicatesElement">
     <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayRotation" />
       <module name="Main" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySum" />
+    <configuration name="DuplicatesElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuplicatesElement" />
       <module name="Main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicatesElement" />
         <item itemvalue="Application.ArrayRotation" />
         <item itemvalue="Application.PascalTriangle" />
         <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.LargestElement" />
-        <item itemvalue="Application.ArraySum" />
       </list>
     </recent_temporary>
   </component>
